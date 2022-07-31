@@ -1,4 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<img width="1266" alt="Screen Shot 2022-07-31 at 2 18 18 PM" src="./Capture.PNG">
+Built using:
+
+- Front-end library: NextJS
+- Database: Sanity
 
 ## Getting Started
 
